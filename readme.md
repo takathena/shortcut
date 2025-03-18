@@ -1,5 +1,5 @@
 
-## Appendix
+## Info
 
 Any shortcut for my browser.
 
